@@ -6,3 +6,5 @@ Diabetes is a chronic condition that affects millions of individuals worldwide, 
 2. How does the prevalence of diabetes differ across age groups, genders, and BMI categories?
 3. What is the relationship between diabetes and other health conditions such as hypertension and heart disease?
 4. How does smoking history impact the risk of developing diabetes?
+
+### **Key Insights:**
