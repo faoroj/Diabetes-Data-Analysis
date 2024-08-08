@@ -14,8 +14,13 @@ Diabetes is a chronic condition that affects millions of individuals worldwide, 
 The average age in the dataset is approximately 41.78 years, with the 50th percentile (median) being 43 years.
 Gender and Diabetes Prevalence:
 
-There are 38,606 total male entries and 4,031 males positive for diabetes, whereas there are 53,962 total female entries with 4,432 females testing positive for diabetes.
-While the total number of females in the dataset is higher, the proportion of diabetes cases is fairly balanced between genders.
+* The average age in the dataset is approximately 41.78 years, with the 50th percentile (median) being 43 years.
+
+
+**Gender and Diabetes Prevalence:**
+* There are 38,606 total male entries and 4,031 males positive for diabetes, whereas there are 53,962 total female entries with 4,432 females testing positive for diabetes.
+
+* While the total number of females in the dataset is higher, the proportion of diabetes cases is fairly balanced between genders.
 Blood Glucose and HbA1c Levels:
 
 The average blood glucose level for individuals positive for diabetes is significantly higher at 193.96, compared to 132.79 for those negative for diabetes.
