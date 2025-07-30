@@ -14,7 +14,7 @@ Diabetes is a chronic condition that affects millions of individuals worldwide, 
 The average age in the dataset is approximately 41.78 years, with the 50th percentile (median) being 43 years.
 Gender and Diabetes Prevalence:
 
-* The average age in the dataset is approximately 41.78 years, with the 50th percentile (median) being 43 years.
+* The average age in this dataset is approximately 41.78 years, with the 50th percentile (median) being 43 years.
 
 
 **Gender and Diabetes Prevalence:**
